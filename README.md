@@ -17,5 +17,5 @@
 ## 部署
 1. 先部署 [后台服务](https://github.com/shijianmei/hotfixServer) 到服务器 ,并启动
 2. 然后配置前端代码域名:在.env.production下
-    `VUE_APP_BASE_URL = 'http://localhost:5000/'`
+    ```VUE_APP_BASE_URL = 'http://localhost:5000/'```
 3. 部署前端代码到服务器
